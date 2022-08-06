@@ -4,7 +4,7 @@ import struct
 import time
 import picamera
 
-IP = '10.0.0.152'
+IP = '10.0.0.77'
 PORT = 8000
 
 client_socket = socket.socket()
